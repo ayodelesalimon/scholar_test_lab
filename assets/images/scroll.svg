@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.548" height="49.689" viewBox="0 0 38.548 49.689">
+  <defs>
+    <filter id="scroll" x="0" y="0" width="38.548" height="49.689" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#scroll)">
+    <path id="scroll-2" data-name="scroll" d="M10.289,26.623,4.733,20.749l1.8-1.7,3.753,3.967,3.73-3.965,1.8,1.7Zm10.259-2.361V7.427A7.436,7.436,0,0,0,13.121,0H7.427A7.436,7.436,0,0,0,0,7.427V24.262a7.436,7.436,0,0,0,7.427,7.427h5.694A7.436,7.436,0,0,0,20.548,24.262ZM13.121,2.476a4.957,4.957,0,0,1,4.951,4.951V24.262a4.957,4.957,0,0,1-4.951,4.951H7.427a4.957,4.957,0,0,1-4.951-4.951V7.427A4.957,4.957,0,0,1,7.427,2.476ZM10.274,5.013a1.238,1.238,0,1,0,1.238,1.238A1.238,1.238,0,0,0,10.274,5.013Zm0,4.951A1.238,1.238,0,1,0,11.512,11.2,1.238,1.238,0,0,0,10.274,9.965Zm0,4.951a1.238,1.238,0,1,0,1.238,1.238A1.238,1.238,0,0,0,10.274,14.916Zm0,0" transform="translate(9 6)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="facebook" transform="translate(-38 -420)">
+    <g id="Rectangle_383" data-name="Rectangle 383" transform="translate(38 420)" fill="#fff" stroke="#a4a4ba" stroke-width="1">
+      <rect width="48" height="48" rx="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="47" rx="23.5" fill="none"/>
+    </g>
+    <path id="Path_5599" data-name="Path 5599" d="M6.791,7.695V5.078A1.309,1.309,0,0,1,8.1,3.77H9.407V.5H6.791A3.924,3.924,0,0,0,2.866,4.424v3.27H.25v3.27H2.866V21.43H6.791V10.965H9.407l1.308-3.27Z" transform="translate(56.75 433.5)" fill="#565572"/>
+  </g>
+</svg>

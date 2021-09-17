@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="321" height="321" viewBox="0 0 321 321">
+  <defs>
+    <filter id="Ellipse_3252" x="0" y="0" width="321" height="321" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-opacity="0.11"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="failed_icon" data-name="failed icon" transform="translate(-27.5 -232.5)">
+    <g transform="matrix(1, 0, 0, 1, 27.5, 232.5)" filter="url(#Ellipse_3252)">
+      <circle id="Ellipse_3252-2" data-name="Ellipse 3252" cx="123" cy="123" r="123" transform="translate(37.5 34.5)" fill="#ffd9d9"/>
+    </g>
+    <circle id="Ellipse_3251" data-name="Ellipse 3251" cx="84" cy="84" r="84" transform="translate(104 306)" fill="#ec5050"/>
+    <path id="Path_5386" data-name="Path 5386" d="M3521.473,321.029l29.76-29.761" transform="translate(-3348.354 83.851)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="15"/>
+    <path id="Path_5716" data-name="Path 5716" d="M3551.234,321.029l-29.761-29.761" transform="translate(-3348.353 83.851)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="15"/>
+  </g>
+</svg>
